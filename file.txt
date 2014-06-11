@@ -7,3 +7,5 @@ add line
 dev branch
 
 demo2
+
+status -s
